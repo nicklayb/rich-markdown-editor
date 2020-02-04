@@ -33,6 +33,9 @@ import "prismjs/components/prism-php";
 import "prismjs/components/prism-python";
 import "prismjs/components/prism-java";
 import "prismjs/components/prism-bash";
+import "prismjs/components/prism-elixir";
+import "prismjs/components/prism-elm";
+import "prismjs/components/prism-makefile";
 
 const createPlugins = ({
   placeholder,
